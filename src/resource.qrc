@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/pictures">
+        <file>pictures/1.jpg</file>
+        <file>pictures/1.png</file>
+        <file>pictures/2（原文件）.png</file>
+        <file>pictures/2.jpg</file>
+        <file>pictures/2.png</file>
+        <file>pictures/3.png</file>
+        <file>pictures/4.png</file>
+        <file>pictures/6.png</file>
+        <file>pictures/10.png</file>
+        <file>pictures/11.png</file>
+        <file>pictures/logo.ico</file>
+        <file>pictures/logo.png</file>
+        <file>pictures/12.png</file>
+        <file>pictures/13.png</file>
+        <file>pictures/5.png</file>
+        <file>pictures/7.png</file>
+        <file>pictures/8.png</file>
+        <file>pictures/9.png</file>
+        <file>pictures/14.png</file>
+    </qresource>
+</RCC>
